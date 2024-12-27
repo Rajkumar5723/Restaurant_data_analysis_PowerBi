@@ -1,40 +1,35 @@
-# Indian Restaurant Data Analytics
+# Restaurant Data Analysis with Power BI
 
 ## 📊 Project Overview
-The **Indian Restaurant Data Analytics** project aims to analyze restaurant data to uncover insights about customer preferences, trends, and performance metrics in the Indian food industry. The analysis focuses on identifying patterns in restaurant ratings, cuisines, pricing, and geographic distribution.
+The **Restaurant Data Analysis** project provides actionable insights into restaurant performance, customer preferences, and pricing trends. Using interactive Power BI dashboards, this project highlights key metrics such as ratings, reviews, and cuisine popularity to help stakeholders make data-driven decisions.
 
 ## 🛠️ Tools and Technologies
-- **Power BI**: For interactive data visualizations and dashboards.
-- **Data Cleaning & Preparation**: Handled within Power BI or external tools as required.
+- **Power BI**: For data visualization and dashboard creation.
+- **Data Cleaning**: Handled directly in Power BI or with supplementary tools as needed.
 
 ## 📈 Key Features
-- **Comprehensive Analysis**: Includes metrics like ratings, reviews, and cuisine popularity.
-- **Geographic Insights**: Visualization of restaurant locations and performance trends across different regions.
-- **Customer Preferences**: Analysis of pricing trends and most popular cuisines.
+- **Interactive Dashboards**: Explore metrics like customer ratings, cuisine popularity, and price distribution.
+- **Regional Insights**: Analyze restaurant distribution and performance across different areas.
+- **Trend Analysis**: Visualize customer preferences over time.
 
 ## 🚀 Objectives
-1. To understand customer preferences based on ratings and reviews.
-2. To identify key factors influencing restaurant success.
-3. To analyze pricing strategies and their correlation with ratings.
+1. To identify popular cuisines and customer preferences.
+2. To analyze pricing trends in relation to restaurant ratings.
+3. To provide a geographic breakdown of restaurant performance.
 
 ## 📂 Files in the Repository
-- `Indian Restaurant Data Analytics.pbix`: The Power BI report file containing all visualizations and insights.
+- `Restaurant_data_analysis_PowerBi.pbix`: Power BI file containing the interactive dashboard.
+- `Screenshot 2024-12-18 193755.png`: Preview of the dashboard visualizations.
 
-## 📋 Requirements
-- **Power BI Desktop**: To open and interact with the `.pbix` file.
-- A computer with **Windows** (Power BI Desktop is not available for macOS without virtualization).
-
-## 🖼️ Sample Visualizations
-![Sample Visualization](Restaurant_data_analysis_PowerBi
-/Screenshot 2024-12-18 193755.png)  
-*Replace with an actual screenshot or sample image of a visualization.*
+## 🖼️ Sample Visualization
+![Dashboard Preview](Screenshot%202024-12-18%20193755.png)
 
 ## 🔍 Insights
-- **Top Cuisines**: Identified the most popular cuisines based on customer reviews and ratings.
-- **Price Sensitivity**: Analyzed pricing trends to understand customer preferences.
-- **Regional Distribution**: Examined how restaurant density and performance vary by region.
+- **Cuisines**: Top-rated and most preferred cuisines based on customer reviews.
+- **Pricing Strategies**: How pricing affects customer ratings and choices.
+- **Regional Trends**: Key areas for restaurant success and density.
 
 ## 🔧 How to Use
-1. Download the `Indian Restaurant Data Analytics.pbix` file from this repository.
+1. Download the `Restaurant_data_analysis_PowerBi.pbix` file.
 2. Open the file in **Power BI Desktop**.
-3. Explore the visualizations and filters to derive insights.
+3. Use filters and slicers to explore the dashboard.
